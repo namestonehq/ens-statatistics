@@ -1,2 +1,2 @@
-# ens-statatistics
+# ens-statistics
 Data exploration
